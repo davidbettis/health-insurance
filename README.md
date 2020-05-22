@@ -1,2 +1,3 @@
-# health-insurance
-Health insurance comparative analysis tool
+# Abstract
+
+This is a comparative analysis tool for different health insurance plans.
