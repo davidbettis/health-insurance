@@ -15,7 +15,7 @@ export default {
   getRoutes: () => [
       {
         path: '/',
-        template: 'src/containers/calculator',
+        template: 'src/containers/analyzer',
       },
   ],
   //siteRoot: 'http://localhost:3000',

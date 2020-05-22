@@ -666,11 +666,6 @@ li {
     margin-bottom: 0;
 }
 
-.section {
-    font-weight: bold;
-    font-size: 15pt;
-}
-
 .navigation {
     padding-top: 5pt;
 }
@@ -690,4 +685,24 @@ li {
         display: block;
         margin-left: 3px;
     }
+}
+
+.cell-loss {
+    background-color: #FFC7CE;
+}
+
+.cell-gain {
+    background-color: #B9E6C7;
+}
+
+.clear {
+    clear: both;
+}
+
+.scenario-description {
+    float: left;
+}
+
+.section {
+    padding-bottom: 20px;
 }
